@@ -1,10 +1,9 @@
 /**
  * WinBox.js v0.1.8 (Bundle)
- * Copyright 2021 Nextapps GmbH
- * Author: Thomas Wilkerling
- * Licence: Apache-2.0
+ * Author: Regan Temudo
  * https://github.com/nextapps-de/winbox
  */
+
 ;(function () {
   'use strict'
   var e,
